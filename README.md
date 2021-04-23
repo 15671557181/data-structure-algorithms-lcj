@@ -1,1 +1,1 @@
-# data-structure-algorithms-lcj
+# 自己敲写的代码（主要用来熟悉数据结构与算法的内容）
